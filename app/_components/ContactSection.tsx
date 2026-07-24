@@ -13,6 +13,8 @@ import {
     IconFileText,
 } from "@tabler/icons-react";
 
+import { submitFormClient } from "../_utils/submitForm";
+
 interface FormData {
     name: string;
     phone: string;
@@ -53,12 +55,19 @@ const ContactSection: React.FC = () => {
         setErrors({});
         setSubmitting(true);
 
-        // Simulate API call / Google Sheets submission
         try {
-            await new Promise((resolve) => setTimeout(resolve, 1500));
+            await submitFormClient({
+                fullName: formData.name,
+                phone: formData.phone,
+                apartmentType: formData.interest,
+                budget: formData.budget,
+                note: formData.note,
+                source: "Website Form ContactSection",
+            });
             setSubmitted(true);
         } catch (error) {
             console.error("Form submission error:", error);
+            alert("Có lỗi xảy ra khi gửi thông tin. Vui lòng gọi điện trực tiếp hotline!");
         } finally {
             setSubmitting(false);
         }

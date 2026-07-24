@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "./_components/Header";
 import Footer from "./_components/Footer";
 import FloatingContact from "./_components/FloatingContact";
+import PopupForm from "./_components/PopupForm";
 
 const beVietnamPro = Be_Vietnam_Pro({
     subsets: ["latin", "vietnamese"],
@@ -266,6 +267,7 @@ export default function RootLayout({
                 {children}
                 <Footer />
                 <FloatingContact />
+                <PopupForm />
             </body>
         </html>
     );
