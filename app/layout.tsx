@@ -86,7 +86,7 @@ export const metadata: Metadata = {
         type: "website",
         images: [
             {
-                url: "/amenities/tổng thể 1.jpg",
+                url: "/amenities/tong-the-1.jpg",
                 width: 1200,
                 height: 630,
                 alt: "Phối cảnh tổng thể dự án Bcons Center City Dĩ An Bình Dương",
@@ -97,7 +97,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Căn Hộ Bcons Center City Dĩ An Bình Dương - Giá Tốt Trực Tiếp CĐT 2026",
         description: "Căn hộ chung cư Bcons Center City Dĩ An Bình Dương. Giá chỉ từ 1.6 tỷ/căn. Tặng 2 chỉ vàng. Tư vấn ngay!",
-        images: ["/amenities/tổng thể 1.jpg"],
+        images: ["/amenities/tong-the-1.jpg"],
     },
     robots: {
         index: true,

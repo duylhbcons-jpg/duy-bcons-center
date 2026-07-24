@@ -5,28 +5,28 @@ import { motion } from "motion/react";
 /* ─── Data ──────────────────────────────────────────────── */
 const SLIDES = [
     {
-        src: "/amenities/tổng thể 1.jpg",
+        src: "/amenities/tong-the-1.jpg",
         alt: "Phối cảnh tổng thể Bcons Center City - Dĩ An Bình Dương",
         headline: "BCONS",
         headline2: "CENTER CITY",
         sub: "Biểu tượng kiến trúc mới tại cửa ngõ phía Đông",
     },
     {
-        src: "/amenities/TÒA THÁP ĐÔI – CẦU KÍNH ẤN TƯỢNG.png",
+        src: "/amenities/toa-thap-doi-cau-kinh-an-tuong.png",
         alt: "Tòa tháp đôi Bcons Center City - Sky Bridge cầu kính",
         headline: "SKY",
         headline2: "BRIDGE",
         sub: "Cầu kính kết nối đỉnh tháp — biểu tượng chưa từng có tại Bình Dương",
     },
     {
-        src: "/amenities/HỒ BƠI VÔ CỰC (TẦNG 7 THÁP ĐÔI).png",
+        src: "/amenities/ho-boi-vo-cuc-tang-7-thap-doi.png",
         alt: "Hồ bơi vô cực tầng 7 Bcons Center City",
         headline: "RESORT",
         headline2: "LIVING",
         sub: "Hồ bơi vô cực tầng 7 — nghỉ dưỡng 5 sao ngay tại nhà",
     },
     {
-        src: "/amenities/CÔNG VIÊN QUẢNG TRƯỜNG (8.000 m2).png",
+        src: "/amenities/cong-vien-quang-truong-8000m2.png",
         alt: "Công viên quảng trường 8000m2 Bcons Center City",
         headline: "8.000M²",
         headline2: "QUẢNG TRƯỜNG",
