@@ -43,17 +43,17 @@ const FACT_SHEET = [
     {
         icon: <IconMapPin size={20} />,
         label: "Vị trí",
-        value: "Đường Thống Nhất, Đông Hòa, Dĩ An, Bình Dương",
+        value: "Đường Thống Nhất, P. Đông Hòa, TP.HCM",
     },
     {
         icon: <IconKey size={20} />,
         label: "Pháp lý",
-        value: "Sổ hồng riêng · Đã cấp phép xây dựng & bán hàng",
+        value: "Đã cấp phép xây dựng & bán hàng",
     },
     {
         icon: <IconDoor size={20} />,
         label: "Nhà mẫu",
-        value: "57 Thống Nhất, Đông Hòa, Dĩ An · Mở cửa T2–CN",
+        value: "57 Đường Thống Nhất, P. Đông Hòa, TP.HCM · Mở cửa T2–CN",
     },
 ];
 
