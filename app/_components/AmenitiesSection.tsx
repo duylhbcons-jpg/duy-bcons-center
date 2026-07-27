@@ -13,7 +13,7 @@ const AMENITIES_DATA = [
             "Không gian xanh mát, nơi cư dân tận hưởng những phút giây thư giãn và tổ chức các hoạt động dã ngoại gia đình.",
         details:
             "Tận hưởng sự yên bình giữa lòng đô thị sầm uất với thảm cỏ xanh mướt và không khí trong lành.",
-        src: "/amenities/BÃI CỎ ĐA NĂNG – VƯỜN THƯ GIÃN.png",
+        src: "/amenities/bai-co-da-nang-vuon-thu-gian.png",
     },
     {
         id: 2,
@@ -23,7 +23,7 @@ const AMENITIES_DATA = [
             "Quảng trường rộng lớn tích hợp nhiều khu vực sinh hoạt chung, lễ hội và sự kiện cộng đồng sôi động.",
         details:
             "Nơi kết nối cộng đồng văn minh, tổ chức các hoạt động văn hóa nghệ thuật và vui chơi ngoài trời quy mô lớn.",
-        src: "/amenities/CÔNG VIÊN QUẢNG TRƯỜNG (8.000 m2).png",
+        src: "/amenities/cong-vien-quang-truong-8000m2.png",
     },
     {
         id: 3,
@@ -33,7 +33,7 @@ const AMENITIES_DATA = [
             "Hồ bơi thiết kế phong cách ốc đảo nhiệt đới, mang lại cảm giác nghỉ dưỡng sang trọng ngay tại nhà.",
         details:
             "Làn nước trong xanh cùng cảnh quan thiên nhiên bao quanh tạo nên một thiên đường nghỉ dưỡng riêng tư.",
-        src: "/amenities/HỒ BƠI ỐC ĐẢO (395 m2).png",
+        src: "/amenities/ho-boi-oc-dao-395m2.png",
     },
     {
         id: 4,
@@ -43,7 +43,7 @@ const AMENITIES_DATA = [
             "Tận hưởng tầm nhìn panorama tuyệt đẹp từ hồ bơi vô cực tọa lạc tại tầng 7 của tòa tháp đôi cao cấp.",
         details:
             "Trải nghiệm cảm giác bơi lội giữa không trung và ngắm nhìn toàn cảnh thành phố lung linh từ trên cao.",
-        src: "/amenities/HỒ BƠI VÔ CỰC (TẦNG 7 THÁP ĐÔI).png",
+        src: "/amenities/ho-boi-vo-cuc-tang-7-thap-doi.png",
     },
     {
         id: 5,
@@ -53,7 +53,7 @@ const AMENITIES_DATA = [
             "Điểm nhấn nghệ thuật với hệ thống nhạc nước hiện đại và cảnh quan đa tầng xanh mướt, lung linh về đêm.",
         details:
             "Sự kết hợp hoàn hảo giữa ánh sáng, âm nhạc và nước mang đến những màn trình diễn mãn nhãn mỗi tối.",
-        src: "/amenities/KHU CẢNH QUANG ĐA TẦNG – NHẠC NƯỚC ĐA SẮC.png",
+        src: "/amenities/khu-canh-quang-da-tang-nhac-nuoc.png",
     },
     {
         id: 6,
@@ -63,7 +63,7 @@ const AMENITIES_DATA = [
             "Môi trường giáo dục chất lượng cao ngay trong nội khu, giúp cha mẹ hoàn toàn yên tâm về sự phát triển của con trẻ.",
         details:
             "Cơ sở vật chất hiện đại cùng đội ngũ giáo viên tâm huyết, chuẩn bị nền tảng vững chắc cho tương lai của bé.",
-        src: "/amenities/NHÀ TRẺ & HỆ THỐNG B,SCHOOL.png",
+        src: "/amenities/nha-tre-he-thong-bschool.png",
     },
     {
         id: 7,
@@ -73,7 +73,7 @@ const AMENITIES_DATA = [
             "Trải nghiệm điện ảnh đỉnh cao với hệ thống rạp chiếu phim hiện đại tọa lạc tại khối đế thương mại.",
         details:
             "Thoải mái tận hưởng những bộ phim bom tấn với âm thanh sống động và màn hình sắc nét ngay tại nơi ở.",
-        src: "/amenities/RẠP CHIẾU PHIM (TẦNG 4-5 THÁP ĐÔI).png",
+        src: "/amenities/rap-chieu-phim-tang-4-5-thap-doi.png",
     },
     {
         id: 8,
@@ -83,7 +83,7 @@ const AMENITIES_DATA = [
             "Khu vực rèn luyện thể chất và sân chơi trẻ em an toàn, khuyến khích lối sống năng động cho mọi lứa tuổi.",
         details:
             "Không gian vận động ngoài trời lý tưởng để trẻ em vui đùa và cư dân rèn luyện sức khỏe mỗi ngày.",
-        src: "/amenities/SÂN BÓNG RỔ & KHU VUI CHƠI TRẺ EM.png",
+        src: "/amenities/san-bong-ro-khu-vui-choi-tre-em.png",
     },
     {
         id: 9,
@@ -93,7 +93,7 @@ const AMENITIES_DATA = [
             "Không gian sống đẳng cấp với thiết kế hiện đại tại các tầng cao, ôm trọn tầm nhìn về phía trung tâm thành phố.",
         details:
             "Kiến trúc tinh tế kết hợp tối ưu ánh sáng tự nhiên, mang lại phong cách sống thượng lưu và quý phái.",
-        src: "/amenities/THÁP ĐÔI (TẦNG 8 – 36).png",
+        src: "/amenities/thap-doi-tang-8-36.png",
     },
     {
         id: 10,
@@ -103,7 +103,7 @@ const AMENITIES_DATA = [
             "Chiếc cầu kính nối liền hai tòa tháp, là biểu tượng kiến trúc độc đáo mang đến trải nghiệm thị giác ấn tượng.",
         details:
             "Một tuyệt tác kiến trúc không chỉ kết nối không gian mà còn là điểm check-in đẳng cấp cho cư dân.",
-        src: "/amenities/TÒA THÁP ĐÔI – CẦU KÍNH ẤN TƯỢNG.png",
+        src: "/amenities/toa-thap-doi-cau-kinh-an-tuong.png",
     },
 ];
 

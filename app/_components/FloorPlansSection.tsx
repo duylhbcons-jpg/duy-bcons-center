@@ -27,7 +27,7 @@ type FloorPlanData = {
 const floorPlanData: FloorPlanData = {
     "Block A": {
         "Tầng Điển Hình (2-29)": {
-            image: "/floorPlan/MB TẦNG 02+29 - BLOCK A.jpg",
+            image: "/floorPlan/mb-tang-02-29-block-a.jpg",
             title: "Mặt Bằng Tầng Điển Hình Block A",
             details: [
                 { label: "Mật độ", value: "15 Căn/Tầng" },
@@ -38,7 +38,7 @@ const floorPlanData: FloorPlanData = {
                 "Thiết kế tối ưu hóa luồng gió tự nhiên, 100% căn hộ đều có ban công và logia phơi đồ riêng biệt.",
         },
         "Tầng Trệt": {
-            image: "/floorPlan/MB TẦNG 01 - BLOCK A.jpg",
+            image: "/floorPlan/mb-tang-01-block-a.jpg",
             title: "Mặt Bằng Tầng Trệt Block A",
             details: [
                 { label: "Loại hình", value: "Shophouse Thương Mại" },
@@ -50,7 +50,7 @@ const floorPlanData: FloorPlanData = {
     },
     "Block B": {
         "Tầng Điển Hình (2-29)": {
-            image: "/floorPlan/MB TẦNG 02+29 - BLOCK B.jpg",
+            image: "/floorPlan/mb-tang-02-29-block-b.jpg",
             title: "Mặt Bằng Tầng Điển Hình Block B",
             details: [
                 { label: "Mật độ", value: "16 Căn/Tầng" },
@@ -61,7 +61,7 @@ const floorPlanData: FloorPlanData = {
                 "Không gian sống rộng rãi với tầm nhìn thoáng đãng về hướng nội khu và công viên.",
         },
         "Tầng Trệt": {
-            image: "/floorPlan/MB TẦNG 01 - BLOCK B.png",
+            image: "/floorPlan/mb-tang-01-block-b.png",
             title: "Mặt Bằng Tầng Trệt Block B",
             details: [
                 { label: "Loại hình", value: "Shophouse & Sảnh Cư Dân" },
@@ -73,7 +73,7 @@ const floorPlanData: FloorPlanData = {
     },
     "Block C": {
         "Tầng Điển Hình (3-29)": {
-            image: "/floorPlan/MB TẦNG 03+29 - BLOCK C.jpg",
+            image: "/floorPlan/mb-tang-03-29-block-c.jpg",
             title: "Mặt Bằng Tầng Điển Hình Block C",
             details: [
                 { label: "Mật độ", value: "18 Căn/Tầng" },
@@ -84,7 +84,7 @@ const floorPlanData: FloorPlanData = {
                 "Tầm nhìn ôm trọn hồ bơi vô cực và khuôn viên cảnh quan trung tâm.",
         },
         "Tầng 02": {
-            image: "/floorPlan/MB TẦNG 02 - BLOCK C.jpg",
+            image: "/floorPlan/mb-tang-02-block-c.jpg",
             title: "Mặt Bằng Tầng 02 Block C",
             details: [
                 { label: "Mật độ", value: "12 Căn/Tầng" },
@@ -94,7 +94,7 @@ const floorPlanData: FloorPlanData = {
                 "Tầng tiện ích đặc quyền với không gian thư giãn ngay cửa nhà.",
         },
         "Tầng Trệt": {
-            image: "/floorPlan/MB TẦNG 01 - BLOCK C.jpg",
+            image: "/floorPlan/mb-tang-01-block-c.jpg",
             title: "Mặt Bằng Tầng Trệt Block C",
             details: [
                 { label: "Loại hình", value: "Shophouse Thương Mại" },
