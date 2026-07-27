@@ -161,7 +161,7 @@ const LocationSection: React.FC = () => {
                             <span className="text-gray-900 dark:text-white font-medium">
                                 Bcons Center City
                             </span>
-                            {" "}tọa lạc tại mặt tiền đường Thống Nhất rộng 32m, TP. Dĩ An, Bình Dương
+                            {" "}tọa lạc tại mặt tiền đường Thống Nhất rộng 32m, Phường Đông Hòa, TP.HCM
                             — tâm điểm kết nối giữa Làng Đại Học Quốc Gia, trung tâm công
                             nghệ và các trục đường kinh tế trọng điểm.
                         </p>
