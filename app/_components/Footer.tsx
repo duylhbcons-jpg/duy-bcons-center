@@ -42,7 +42,7 @@ export default function Footer() {
                                 doanh, đại lý phân phối chính thức các dự án của Tập đoàn Bcons.
                             </p>
                             <p className="text-gray-500 text-sm leading-relaxed font-light">
-                                Với hệ sinh thái căn hộ hiện đại tại TP. Dĩ An và khu Đông Sài Gòn, Bcons Center
+                                Với hệ sinh thái căn hộ hiện đại tại khu Đông Sài Gòn, Bcons Center
                                 City không chỉ cung cấp một nơi ở, mà còn kiến tạo một cộng đồng văn minh, tiện
                                 nghi trọn vẹn.
                             </p>
@@ -78,7 +78,7 @@ export default function Footer() {
                                 {
                                     icon: <IconBuildingSkyscraper size={18} className="text-amber-500/80" />,
                                     title: "Sàn Giao Dịch Bhome - CĐT Bcons",
-                                    desc: "Số 57 Đường Thống Nhất, P. Đông Hòa, Dĩ An, Bình Dương",
+                                    desc: "Số 57 Đường Thống Nhất, P. Đông Hòa, TP.HCM",
                                 },
                                 {
                                     icon: <IconPhone size={18} className="text-amber-500/80" />,
