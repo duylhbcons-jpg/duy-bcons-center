@@ -161,7 +161,7 @@ const ContactSection: React.FC = () => {
                                 {
                                     icon: <IconMapPin size={18} className="text-amber-500/80" />,
                                     title: "Nhà Mẫu & Văn Phòng",
-                                    value: "57 Thống Nhất, Đông Hòa, Dĩ An, Bình Dương",
+                                    value: "Số 57 Thống Nhất, P. Đông Hòa, TP.HCM",
                                     href: "https://maps.google.com/?q=Bcons+Center+City",
                                 },
                             ].map((item, i) => (

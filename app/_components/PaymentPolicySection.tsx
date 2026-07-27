@@ -370,7 +370,7 @@ const PaymentPolicySection: React.FC = () => {
                                 "Pháp lý đầy đủ, sổ hồng riêng từng căn",
                                 "Chủ đầu tư Bcons Group uy tín 12+ năm",
                                 "Bàn giao Quý IV/2027",
-                                "Vị trí mặt tiền Thống Nhất, Dĩ An",
+                                "Vị trí mặt tiền đường Thống Nhất, TP.HCM",
                             ].map((item, i) => (
                                 <div
                                     key={i}
