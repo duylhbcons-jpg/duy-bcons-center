@@ -333,7 +333,7 @@ const HeroBanner: React.FC = () => {
                             }}
                         >
                             <span className="text-amber-400">📍</span>
-                            <span>Thống Nhất · Dĩ An · Bình Dương</span>
+                            <span>Đường Thống Nhất · P. Đông Hòa · TP.HCM</span>
                         </div>
                     </motion.div>
                 </div>
