@@ -168,7 +168,7 @@ const OverviewSection: React.FC = () => {
                             <br />
                             Center City
                             <br />
-                            <span className="text-amber-600">Tại Dĩ An · Bình Dương</span>
+                            <span className="text-amber-600">Phường Đông Hòa · TP.HCM</span>
                         </h2>
 
                         <div className="w-12 h-px bg-gradient-to-r from-amber-500/60 to-transparent mb-8" />
@@ -176,14 +176,12 @@ const OverviewSection: React.FC = () => {
                         <div className="space-y-6">
                             <p className="text-base sm:text-lg text-gray-600 leading-relaxed font-light">
                                 <strong className="text-gray-900 font-medium">Dự án Bcons Center City</strong>{" "}
-                                (Bcons City) là dự án chung cư cao cấp tọa lạc tại giao lộ chiến lược Thống Nhất –
-                                Xa lộ Hà Nội, TP. Dĩ An, Bình Dương. Đây là điểm kết nối vàng giữa các trung tâm
-                                kinh tế trọng điểm, khẳng định vị thế chiến lược tại cửa ngõ phía Đông thành phố.
+                                là dự án chung cư tọa lạc tại giao lộ chiến lược Thống Nhất kết nối giữa QL1K – Xa lộ Hà Nội, P. Đông Hòa, TP.HCM. Đây là điểm kết nối vàng giữa các trung tâm kinh tế trọng điểm (TP.HCM - Bình Dương - Đồng Nai), khẳng định vị thế chiến lược tại cửa ngõ phía Đông thành phố.
                             </p>
                             <p className="text-base sm:text-lg text-gray-500 leading-relaxed font-light">
                                 Với quy mô 1.940 căn hộ hiện đại, Bcons Center City được kiến tạo với tầm nhìn trở
                                 thành một khu đô thị tích hợp công nghệ cao và không gian sáng tạo — lựa chọn hàng
-                                đầu cho ai tìm kiếm chung cư Dĩ An chất lượng cao.
+                                đầu cho ai tìm kiếm chung cư Khu Đông - TP.HCM.
                             </p>
                         </div>
 
